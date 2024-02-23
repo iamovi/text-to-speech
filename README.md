@@ -14,6 +14,10 @@ This is a simple Python program that converts text to speech using the Google Te
 
 1. Clone or download the repository to your local machine.
 
+```bash
+git clone https://github.com/iamovi/text-to-speech.git
+```
+
 2. Install the dependencies
 
 ```bash
