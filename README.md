@@ -15,12 +15,12 @@ This is a simple Python program that converts text to speech using the Google Te
 2. Install the dependencies
 
 ```bash
-pip install pygame gTTS
+pip install -r requirements.txt
 ```
 Or,
 
 ```bash
-pip install -r requirements.txt
+pip install pygame gTTS
 ```
 
 3. Run the program
