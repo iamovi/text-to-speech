@@ -5,8 +5,10 @@ This is a simple Python program that converts text to speech using the Google Te
 ## Dependencies
 
 - Python 3.x
-- pygame library (`pip install pygame`)
-- gTTS library (`pip install gTTS`)
+
+- pygame library
+
+- gTTS library
 
 ## Usage
 
