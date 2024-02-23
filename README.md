@@ -11,7 +11,11 @@ This is a simple Python program that converts text to speech using the Google Te
 ## Usage
 
 1. Clone or download the repository to your local machine.
-2. Install the dependencies using pip (`pip install pygame gTTS`).
+2. Install the dependencies using pip (`pip install pygame gTTS`), Or -
+```bash
+pip install -r requirements.txt
+```
+
 3. Run the program by executing `python3 main.py` in your terminal.
 4. Enter the text you want to convert to speech.
 5. Choose whether to play the speech or download it as an MP3 file.
