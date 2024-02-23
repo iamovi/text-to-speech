@@ -15,7 +15,7 @@ This is a simple Python program that converts text to speech using the Google Te
 3. Run the program by executing `python3 main.py` in your terminal.
 4. Enter the text you want to convert to speech.
 5. Choose whether to play the speech or download it as an MP3 file.
-6. To exit the program - `ctrl + c`
+6. To exit the program - `ctrl + c` or type `exit` and hit enter.
 
 ## Contributing
 
